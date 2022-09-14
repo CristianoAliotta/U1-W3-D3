@@ -16,4 +16,4 @@ if (x < 10) {
 } else if ((x > 10 && x < 18) || x >= 65) {
   price = price - (price * 20) / 100;
 }
-console.log(`All ingresso pagherai ${price}`);
+console.log(`Alla cassa pagherai ${price}€`);
